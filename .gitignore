@@ -1,0 +1,35 @@
+# Archivos de Android Studio / IntelliJ
+*.iml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle/
+build/
+
+# Archivos locales
+local.properties
+
+# Archivos de llaves / seguridad
+*.jks
+*.keystore
+
+# Firebase (evita exponer credenciales si tu repo es público)
+google-services.json
+
+# NDK / CMake
+.externalNativeBuild/
+.cxx/
+
+# Capturas de pantalla generadas por Android Studio
+captures/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

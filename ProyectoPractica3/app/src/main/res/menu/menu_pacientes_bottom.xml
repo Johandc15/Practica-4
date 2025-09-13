@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_agregar_paciente"
+        android:icon="@drawable/ic_add"
+        android:title="Agregar"/>
+    <item
+        android:id="@+id/nav_lista_pacientes"
+        android:icon="@drawable/ic_lista"
+        android:title="Pacientes"/>
+</menu>

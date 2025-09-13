@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_recordatorio"
+        android:icon="@drawable/ic_recordatorio"
+        android:title="Recordatorio" />
+
+    <item
+        android:id="@+id/nav_notificaciones"
+        android:icon="@drawable/ic_notificacion"
+        android:title="Notificaciones" />
+</menu>

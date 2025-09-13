@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_buscar_paciente_notificaciones"
+        android:title="Buscar Paciente"
+        android:icon="@drawable/ic_buscar" />
+
+    <item
+        android:id="@+id/nav_agregar_recordatorio_familiar"
+        android:title="Agregar Recordatorio"
+        android:icon="@drawable/ic_recordatorio" />
+
+    <item
+        android:id="@+id/nav_lista_recordatorios_familiar"
+        android:title="Ver Recordatorios"
+        android:icon="@drawable/ic_lista" />
+
+    <item
+        android:id="@+id/nav_historial_recordatorios_familiar"
+        android:title="Historial"
+        android:icon="@drawable/ic_historial" />
+
+</menu>

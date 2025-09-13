@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="262dp"
+        android:layout_height="283dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.597"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/recetar" />
+
+    <EditText
+        android:id="@+id/etNombreMedicamentoFamiliar"
+        android:layout_width="388dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="304dp"
+        android:hint="Nombre del Medicamento"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etDosisFamiliar"
+        android:layout_width="388dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="360dp"
+        android:hint="Dosis"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etCantidadFamiliar"
+        android:layout_width="388dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="420dp"
+        android:hint="Cantidad"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etHorarioFamiliar"
+        android:layout_width="388dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="480dp"
+        android:hint="Horario"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etNotasFamiliar"
+        android:layout_width="388dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="540dp"
+        android:hint="Notas"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnGuardarMedicamentoFamiliar"
+        android:layout_width="327dp"
+        android:layout_height="53dp"
+        android:background="@drawable/boton_ovalado2"
+        android:text="Guardar Medicamento"
+        app:backgroundTint="@null"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="625dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

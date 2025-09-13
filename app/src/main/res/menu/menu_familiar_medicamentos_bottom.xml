@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_buscar_paciente"
+        android:icon="@drawable/ic_buscar"
+        android:title="Buscar Paciente"/>
+    <item
+        android:id="@+id/nav_agregar_medicamento"
+        android:icon="@drawable/ic_add"
+        android:title="Agregar"/>
+    <item
+        android:id="@+id/nav_lista_medicamentos"
+        android:icon="@drawable/ic_lista"
+        android:title="Medicamentos"/>
+    <item
+        android:id="@+id/nav_configuracion_medicamentos"
+        android:icon="@drawable/ic_settings"
+        android:title="Configurar"/>
+</menu>

@@ -1,0 +1,107 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F4F8"> <!-- Fondo suave -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="32dp"
+        android:gravity="center_horizontal"
+        tools:ignore="ExtraText">
+
+        <TextView
+            android:id="@+id/tvTituloRegistro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crear Cuenta"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            android:textColor="@color/dark_purple"
+        android:fontFamily="sans-serif-medium"
+        android:layout_marginBottom="28dp" />
+
+        <EditText
+            android:id="@+id/etNombre"
+            style="@style/CustomEditText"
+            android:hint="Nombre"
+            android:textColorHint="@color/dark_purple"
+            android:textColor="@color/dark_purple"
+
+            />
+
+        <EditText
+            android:id="@+id/etApellido"
+            style="@style/CustomEditText"
+            android:hint="Apellido"
+            android:textColorHint="@color/dark_purple"
+            android:textColor="@color/dark_purple"
+
+            />
+
+        <EditText
+            android:id="@+id/etUsuario"
+            style="@style/CustomEditText"
+            android:hint="Nombre de usuario"
+            android:textColorHint="@color/dark_purple"
+            android:textColor="@color/dark_purple"
+
+            />
+
+        <EditText
+            android:id="@+id/etEmail"
+            style="@style/CustomEditText"
+            android:hint="Correo electrónico"
+            android:inputType="textEmailAddress"
+            android:textColorHint="@color/dark_purple"
+            android:textColor="@color/dark_purple"
+
+            />
+
+        <EditText
+            android:id="@+id/etPassword"
+            style="@style/CustomEditText"
+            android:hint="Contraseña"
+            android:inputType="textPassword"
+            android:textColorHint="@color/dark_purple"
+            android:textColor="@color/dark_purple"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tipo de usuario:"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"/>
+
+        <Spinner
+            android:id="@+id/spinnerTipoUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:background="@drawable/spinner_background"
+            android:minHeight="48dp"
+            android:padding="12dp" />
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REGISTRARSE"
+            android:background="@drawable/boton_ovalado2"
+            android:textAllCaps="false"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:backgroundTint="@null"
+            android:textColor="@android:color/white"
+            android:padding="16dp"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+</ScrollView>
