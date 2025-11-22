@@ -1,0 +1,7 @@
+com.ucentral.proyectopractica3.test.app-core-1.6.1-0 /Users/johansebastianvargasgiraldo/.gradle/caches/8.13/transforms/351e6584051c0eb8181ac0a63204a83f/transformed/core-1.6.1/res
+com.ucentral.proyectopractica3.test.app-tracing-1.2.0-1 /Users/johansebastianvargasgiraldo/.gradle/caches/8.13/transforms/3f3df50e0cb44826eb0c40627234d832/transformed/tracing-1.2.0/res
+com.ucentral.proyectopractica3.test.app-androidTest-2 /Users/johansebastianvargasgiraldo/Downloads/proyectopractica3/app/build/generated/res/resValues/androidTest/debug
+com.ucentral.proyectopractica3.test.app-updated_navigation_xml-3 /Users/johansebastianvargasgiraldo/Downloads/proyectopractica3/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.ucentral.proyectopractica3.test.app-mergeDebugAndroidTestResources-4 /Users/johansebastianvargasgiraldo/Downloads/proyectopractica3/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.ucentral.proyectopractica3.test.app-mergeDebugAndroidTestResources-5 /Users/johansebastianvargasgiraldo/Downloads/proyectopractica3/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.ucentral.proyectopractica3.test.app-debugAndroidTest-6 /Users/johansebastianvargasgiraldo/Downloads/proyectopractica3/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

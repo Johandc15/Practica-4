@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="#FAFAFA">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Contexto Paciente/Medicamento -->
+        <TextView
+            android:id="@+id/tvContextoSeleccion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Paciente actual"
+            android:textSize="16sp"
+            android:paddingBottom="8dp"/>
+
+        <!-- Medicamento -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medicamento"
+            android:textStyle="bold"/>
+        <Spinner
+            android:id="@+id/spMedicamentosProgramador"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_marginBottom="8dp"/>
+
+        <!-- Modo -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Modo de programación"
+            android:textStyle="bold"/>
+        <RadioGroup
+            android:id="@+id/rgModoProgramacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="8dp">
+            <RadioButton
+                android:id="@+id/rbCiclos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ciclos"
+                android:checked="true"/>
+            <RadioButton
+                android:id="@+id/rbCadaXHoras"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cada X h"
+                android:layout_marginStart="16dp"/>
+            <RadioButton
+                android:id="@+id/rbManual"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Manual"
+                android:layout_marginStart="16dp"/>
+        </RadioGroup>
+
+        <!-- MODO CICLOS -->
+        <LinearLayout
+            android:id="@+id/groupCiclos"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:background="#FFFFFF">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <CheckBox
+                    android:id="@+id/cbMananaProg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mañana"/>
+                <Button
+                    android:id="@+id/btnHoraManana"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mañana: 08:00"
+                    android:layout_marginStart="8dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+                <CheckBox
+                    android:id="@+id/cbMediodiaProg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mediodía"/>
+                <Button
+                    android:id="@+id/btnHoraMediodia"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mediodía: 12:00"
+                    android:layout_marginStart="8dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+                <CheckBox
+                    android:id="@+id/cbTardeProg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tarde"/>
+                <Button
+                    android:id="@+id/btnHoraTarde"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tarde: 16:00"
+                    android:layout_marginStart="8dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp">
+                <CheckBox
+                    android:id="@+id/cbNocheProg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Noche"/>
+                <Button
+                    android:id="@+id/btnHoraNoche"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Noche: 20:00"
+                    android:layout_marginStart="8dp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- MODO CADA X HORAS -->
+        <LinearLayout
+            android:id="@+id/groupCadaXHoras"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:background="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/btnHoraInicio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hora inicio: 08:00"/>
+
+            <EditText
+                android:id="@+id/etIntervaloHoras"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Intervalo (horas)"
+                android:inputType="number"
+                android:layout_marginTop="8dp"/>
+        </LinearLayout>
+
+        <!-- MODO MANUAL -->
+        <LinearLayout
+            android:id="@+id/groupManual"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:background="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/btnAgregarHoraManual"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Añadir hora"/>
+
+            <ListView
+                android:id="@+id/lvHorasManual"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginTop="8dp" />
+        </LinearLayout>
+
+        <!-- Rango -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rango"
+            android:textStyle="bold"
+            android:layout_marginTop="12dp"/>
+        <Button
+            android:id="@+id/btnFechaInicio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fecha inicio"/>
+        <EditText
+            android:id="@+id/etDiasDuracion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Días de duración"
+            android:inputType="number"
+            android:layout_marginTop="8dp"/>
+
+        <!-- Acciones -->
+        <Button
+            android:id="@+id/btnPrevisualizar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Previsualizar"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:id="@+id/tvPreview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginTop="8dp"/>
+
+        <Button
+            android:id="@+id/btnGuardarProgramacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Guardar programación"
+            android:layout_marginTop="12dp"/>
+    </LinearLayout>
+</ScrollView>

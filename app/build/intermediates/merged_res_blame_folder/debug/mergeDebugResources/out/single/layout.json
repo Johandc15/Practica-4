@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_doctor_home.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_home.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/menu_avatar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/menu_avatar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_doctor_graficos_cumplimiento.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_graficos_cumplimiento.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_historial_recordatorios_familiar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_historial_recordatorios_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_buscar_paciente_notificaciones.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_buscar_paciente_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_historial.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_historial.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_familiar_pacientes.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_pacientes.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_agregar_medicamento.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_medicamento.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_edit_profile.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_configuracion_medicamentos_familiar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_configuracion_medicamentos_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_familiar_home.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_home.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_agregar_recordatorio_familiar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_recordatorio_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_lista_medicamentos.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_medicamentos.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_paciente_medicamentos.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_paciente_medicamentos.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_lista_medicamentos_familiar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_medicamentos_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_agregar_medicamento_familiar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_medicamento_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_configuracion_medicamento.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_configuracion_medicamento.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_register.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_notificaciones.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_familiar_medicamentos.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_medicamentos.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/bottomsheet_account.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/bottomsheet_account.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_familiar_notificaciones.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_recordatorio_notificaciones.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_recordatorio_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_paciente_home.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_paciente_home.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_agregar_paciente.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_paciente.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_paciente_historial.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_paciente_historial.xml"
+    },
+    {
+        "merged": "com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_programar_recordatorios.xml",
+        "source": "com.ucentral.proyectopractica3.app-main-48:/layout/fragment_programar_recordatorios.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_lista_pacientes_asociados.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_pacientes_asociados.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_lista_recordatorios_familiar.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_recordatorios_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_doctor_lista_pacientes.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_lista_pacientes.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_alarm_ring.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_alarm_ring.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_agregar_recordatorio.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_recordatorio.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/fragment_buscar_paciente.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_buscar_paciente.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_doctor_diagnostico.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_diagnostico.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-mergeDebugResources-45:/layout/activity_doctor_estadisticas_paciente.xml",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_estadisticas_paciente.xml"
+    }
+]

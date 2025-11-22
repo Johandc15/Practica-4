@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:padding="24dp"
+    android:background="#FAFAFA">
+
+    <!-- Contenedor general de la pantalla -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Título de la sección -->
+        <TextView
+            android:id="@+id/tvTituloConfiguracionMed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Configuración de medicamentos"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#212121"
+            android:paddingBottom="4dp" />
+
+        <!-- Descripción corta -->
+        <TextView
+            android:id="@+id/tvDescripcionConfiguracionMed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aquí puedes revisar los medicamentos registrados, ver su tratamiento y eliminarlos si ya no aplican."
+            android:textSize="14sp"
+            android:textColor="#616161"
+            android:paddingBottom="12dp" />
+
+        <!-- Línea divisoria -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#DDDDDD"
+            android:layout_marginBottom="16dp" />
+
+        <!-- CONTENEDOR DONDE EL FRAGMENT AGREGA LAS TARJETAS -->
+        <LinearLayout
+            android:id="@+id/layoutConfiguracion"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- Aquí se listarán medicamentos con opción de eliminar -->
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ScrollView
+        android:id="@+id/scrollAgregarMedicFamiliar"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fillViewport="true"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <!-- Imagen de cabecera -->
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="@string/app_name"
+                app:srcCompat="@drawable/recetar" />
+
+            <!-- Título -->
+            <TextView
+                android:id="@+id/tvTituloAgregarMedFamiliar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Agregar medicamento para el paciente"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#212121"
+                android:layout_marginTop="8dp"
+                android:paddingBottom="4dp" />
+
+            <!-- Descripción -->
+            <TextView
+                android:id="@+id/tvDescripcionAgregarMedFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Registra el tratamiento del paciente con datos claros: dosis, ciclos de toma y fechas."
+                android:textSize="14sp"
+                android:textColor="#616161"
+                android:paddingBottom="8dp" />
+
+            <!-- 🔹 NUEVO: Paciente actual -->
+            <TextView
+                android:id="@+id/tvPacienteActualMedicamentoFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Paciente actual: (sin seleccionar)"
+                android:textSize="14sp"
+                android:textColor="#424242"
+                android:paddingBottom="16dp" />
+
+            <!-- SECCIÓN: Datos del medicamento -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Datos del medicamento"
+                android:textStyle="bold"
+                android:paddingTop="8dp"
+                android:paddingBottom="4dp" />
+
+            <EditText
+                android:id="@+id/etNombreMedicamentoFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nombre comercial *"
+                android:inputType="textCapWords" />
+
+            <EditText
+                android:id="@+id/etNombreGenericoFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Nombre genérico (opcional)"
+                android:inputType="textCapWords" />
+
+            <Spinner
+                android:id="@+id/spPresentacionFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" />
+
+            <Spinner
+                android:id="@+id/spViaAdministracionFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" />
+
+            <!-- SECCIÓN: Posología -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Posología"
+                android:textStyle="bold"
+                android:paddingTop="16dp"
+                android:paddingBottom="4dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/etDosisPorTomaFamiliar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Cantidad por toma *"
+                    android:inputType="numberDecimal" />
+
+                <Spinner
+                    android:id="@+id/spUnidadDosisFamiliar"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="8dp" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/etCantidadTotalFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Cantidad total del tratamiento *"
+                android:inputType="number" />
+
+            <Spinner
+                android:id="@+id/spUnidadCantidadTotalFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp" />
+
+            <!-- SECCIÓN: Ciclos de toma -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ciclos de toma (por día)"
+                android:textStyle="bold"
+                android:paddingTop="16dp"
+                android:paddingBottom="4dp" />
+
+            <Spinner
+                android:id="@+id/spTomasPorDiaFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="8dp">
+
+                <CheckBox
+                    android:id="@+id/cbMananaFamiliar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mañana" />
+
+                <CheckBox
+                    android:id="@+id/cbMediodiaFamiliar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Mediodía"
+                    android:layout_marginStart="8dp" />
+
+                <CheckBox
+                    android:id="@+id/cbTardeFamiliar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tarde"
+                    android:layout_marginStart="8dp" />
+
+                <CheckBox
+                    android:id="@+id/cbNocheFamiliar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Noche"
+                    android:layout_marginStart="8dp" />
+            </LinearLayout>
+
+            <!-- SECCIÓN: Duración del tratamiento -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Duración del tratamiento"
+                android:textStyle="bold"
+                android:paddingTop="16dp"
+                android:paddingBottom="4dp" />
+
+            <EditText
+                android:id="@+id/etFechaInicioFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Fecha de inicio (dd/mm/aaaa) *"
+                android:inputType="date" />
+
+            <EditText
+                android:id="@+id/etFechaFinFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Fecha de terminación (dd/mm/aaaa)"
+                android:inputType="date" />
+
+            <CheckBox
+                android:id="@+id/cbUsoCronicoFamiliar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Uso crónico (sin fecha de terminación)"
+                android:layout_marginTop="4dp" />
+
+            <!-- SECCIÓN: Notas -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Notas / indicaciones"
+                android:textStyle="bold"
+                android:paddingTop="16dp"
+                android:paddingBottom="4dp" />
+
+            <EditText
+                android:id="@+id/etNotasFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Ej: Tomar después de comer, evitar alcohol..."
+                android:inputType="textMultiLine"
+                android:minLines="2" />
+
+            <!-- BOTÓN GUARDAR -->
+            <Button
+                android:id="@+id/btnGuardarMedicamentoFamiliar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Guardar medicamento"
+                android:layout_marginTop="24dp"
+                android:background="@drawable/boton_ovalado2"
+                android:textAllCaps="false"
+                app:backgroundTint="@null" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

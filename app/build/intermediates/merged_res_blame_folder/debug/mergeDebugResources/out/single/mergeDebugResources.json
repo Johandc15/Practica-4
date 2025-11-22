@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_logo.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/color_nav_item_color.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/color/nav_item_color.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_edittext_background.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ripple_purple.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ripple_purple.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado_borde.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado_borde.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_done.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_edittext_ovalado.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/edittext_ovalado.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_historial.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/historial.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_agregar_recordatorio.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_recordatorio.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_doctor_home.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_home.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_lista_pacientes_asociados.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_pacientes_asociados.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_paciente_home.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_paciente_home.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_check.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_recordatorio_notificaciones.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_recordatorio_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/xml_backup_rules.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_familiar_notificaciones.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_doctor.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/doctor.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado5.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado5.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_info.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_doctor_estadisticas_paciente.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_estadisticas_paciente.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_register.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_add.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_paciente.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/paciente.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_fondo.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/fondo.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_notificaciones.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_bottomsheet_account.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/bottomsheet_account.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_doctor_graficos_cumplimiento.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_graficos_cumplimiento.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_login.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_recordatorio_bottom.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_recordatorio_bottom.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_menu_avatar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/menu_avatar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_button_rounded_green.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/button_rounded_green.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_agregar_recordatorio_familiar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_recordatorio_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_historial.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_historial.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/raw_snooze_ping.wav.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/raw/snooze_ping.wav"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_eye.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_notificacion.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/notificacion.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_main.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_medicamento.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/medicamento.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado6.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado6.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_settings.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_user.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_user.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_familiar_home.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_home.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_paciente_medicamentos.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_paciente_medicamentos.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_alarm.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_alarm.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_pacientes_bottom.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_pacientes_bottom.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_alarm_ring.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_alarm_ring.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado3.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado3.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_lista_recordatorios_familiar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_recordatorios_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_correo.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/correo.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_buscar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_buscar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_buscar_paciente_notificaciones.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_buscar_paciente_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_agregar_medicamento.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_medicamento.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_buscar_paciente.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_buscar_paciente.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_doctor_lista_pacientes.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_lista_pacientes.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado8.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado8.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_familiar_pacientes.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_pacientes.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_edit_profile.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_bottom_nav_familiar_notificaciones.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_bottom_nav_familiar_notificaciones.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_medicamentos_bottom.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_medicamentos_bottom.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_pastilla.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/pastilla.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_paciente_historial.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_paciente_historial.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_lista_medicamentos_familiar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_medicamentos_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_snooze.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_snooze.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_login.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_login.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_familiar_medicamentos_bottom.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_familiar_medicamentos_bottom.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/raw_alarm_tone.wav.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/raw/alarm_tone.wav"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_candado.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/candado.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_card_border.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/card_border.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_rounded_orange.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/rounded_orange.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_recetar.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/recetar.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_familiar.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/familiar.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_configuracion_medicamento.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_configuracion_medicamento.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_recordatorio.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_recordatorio.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_bg_logo_glow.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/bg_logo_glow.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_familiar_medicamentos.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_familiar_medicamentos.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_rounded_purple.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/rounded_purple.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_rounded_blue.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/rounded_blue.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_spinner_background.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_historial.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_historial.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_border_gray.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/border_gray.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado2.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado2.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_border_green.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/border_green.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_person_add.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_person_add.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_agregar_medicamento_familiar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_medicamento_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_configuracion_medicamentos_familiar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_configuracion_medicamentos_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_bg_gradient.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_bg_bottom_panel.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/bg_bottom_panel.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_pastilla.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_pastilla.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_eye_off.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_eye_off.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_activity_doctor_diagnostico.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/activity_doctor_diagnostico.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_rounded_button.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_notificacion.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_notificacion.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/menu_menu_bottom_nav.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_logo1.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/logo1.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_person.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_historial_recordatorios_familiar.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_historial_recordatorios_familiar.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_busqueda.png.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/busqueda.png"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_lista_medicamentos.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_lista_medicamentos.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado4.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado4.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_agregar_paciente.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/layout/fragment_agregar_paciente.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_lista.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_lista.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_ic_copy.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-debug-46:/drawable_boton_ovalado7.xml.flat",
+        "source": "/Users/johansebastianvargasgiraldo/.gradle/daemon/8.13/com.ucentral.proyectopractica3.app-main-48:/drawable/boton_ovalado7.xml"
+    },
+    {
+        "merged": "com.ucentral.proyectopractica3.app-debug-46:/layout_fragment_programar_recordatorios.xml.flat",
+        "source": "com.ucentral.proyectopractica3.app-main-48:/layout/fragment_programar_recordatorios.xml"
+    }
+]
