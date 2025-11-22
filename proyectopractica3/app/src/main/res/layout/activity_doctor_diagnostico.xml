@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/etSintomas"
+            android:hint="Síntomas del paciente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/dark_purple"
+            android:textColorHint="@color/dark_purple"
+            android:minLines="3" />
+
+        <EditText
+            android:id="@+id/etHabitos"
+            android:hint="Hábitos (ej: fuma, sedentarismo)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/dark_purple"
+            android:textColorHint="@color/dark_purple"
+            android:minLines="3"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/etAntecedentes"
+            android:hint="Antecedentes médicos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/dark_purple"
+            android:textColorHint="@color/dark_purple"
+            android:minLines="3"
+            android:layout_marginTop="16dp" />
+
+        <Button
+            android:id="@+id/btnGenerarDiagnostico"
+            android:text="🧠 Generar Diagnóstico"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp" />
+
+        <TextView
+            android:id="@+id/tvResultadoDiagnostico"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/dark_purple"
+            android:textSize="16sp"
+            android:layout_marginTop="16dp" />
+
+        <Button
+            android:id="@+id/btnGuardarDiagnostico"
+            android:text="💾 Guardar Diagnóstico"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp" />
+
+        <Button
+            android:id="@+id/btnVolverDiagnostico"
+            android:text="← Volver"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/purple_200"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+</ScrollView>
