@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_agregar"
+        android:icon="@drawable/ic_add"
+        android:title="Agregar" />
+    <item
+        android:id="@+id/nav_lista"
+        android:icon="@drawable/ic_info"
+        android:title="Ver" />
+    <item
+        android:id="@+id/nav_config"
+        android:icon="@drawable/ic_settings"
+        android:title="Configurar" />
+</menu>

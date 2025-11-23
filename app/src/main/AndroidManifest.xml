@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Permisos base -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- Reprogramar alarmas tras reinicio -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <!-- Alarmas exactas (Android 12/13/14+) -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProyectoPractica3"
+        tools:targetApi="31">
+
+        <!-- ======= ACTIVIDADES ======= -->
+
+        <!-- DOCTOR -->
+        <activity
+            android:name=".ui.doctor.DoctorDiagnosticoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.doctor.DoctorGraficosCumplimientoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.doctor.DoctorEstadisticasPacienteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.doctor.DoctorListaPacientesActivity"
+            android:exported="false" />
+
+        <!-- FAMILIAR -->
+        <activity
+            android:name=".ui.familiar.notificaciones.FamiliarNotificacionesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.familiar.FamiliarMedicamentosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.familiar.FamiliarPacientesActivity"
+            android:exported="false" />
+
+        <!-- PACIENTE -->
+        <activity
+            android:name=".ui.PacienteHistorialActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.RecordatorioNotificacionesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.PacienteMedicamentosActivity"
+            android:exported="false" />
+
+        <!-- AUTENTICACIÓN -->
+        <activity
+            android:name=".auth.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.LoginActivity"
+            android:exported="false" />
+
+        <!-- HOME SEGÚN ROL -->
+        <activity
+            android:name=".ui.PacienteHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.DoctorHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.FamiliarHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.EditProfileActivity"
+            android:exported="false" />
+
+        <!-- MAIN / LAUNCHER -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Pantalla intrusiva cuando suena la alarma -->
+        <activity
+            android:name=".ui.notificaciones.AlarmRingActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            android:showWhenLocked="true"
+            android:turnScreenOn="true" />
+
+        <!-- ======= RECEIVERS ======= -->
+
+        <!-- Disparo de la alarma (desde AlarmManager) -> crea notificación y puede abrir AlarmRingActivity -->
+        <receiver
+            android:name=".ui.notificaciones.AlarmaReceiver"
+            android:exported="false" />
+
+        <!-- Acción 'Tomar ahora' (desde la notificación) -->
+        <receiver
+            android:name=".ui.notificaciones.AccionTomarReceiver"
+            android:exported="false" />
+
+        <!-- Acción 'Posponer 10 min' (desde la notificación) -->
+        <receiver
+            android:name=".ui.notificaciones.AccionPosponerReceiver"
+            android:exported="false" />
+
+        <!-- Reprogramar TODAS las alarmas del usuario tras reinicio del dispositivo -->
+        <receiver
+            android:name=".ui.notificaciones.BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

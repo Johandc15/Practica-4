@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Rojos -->
+    <color name="red_light">#FFCDD2</color>
+    <color name="red">#F44336</color>
+    <color name="red_dark">#D32F2F</color>
+
+    <!-- Verdes -->
+    <color name="green_light">#C8E6C9</color>
+    <color name="green">#4CAF50</color>
+    <color name="green_dark">#388E3C</color>
+
+    <!-- Azules -->
+    <color name="blue_light">#BBDEFB</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_dark">#1976D2</color>
+
+    <!-- Rosados -->
+    <color name="pink_light">#F8BBD0</color>
+    <color name="pink">#E91E63</color>
+    <color name="pink_dark">#C2185B</color>
+
+    <!-- Morados -->
+    <color name="violet_light">#E1BEE7</color>
+    <color name="violet">#9C27B0</color>
+    <color name="violet_dark">#7B1FA2</color>
+
+    <!-- Amarillos -->
+    <color name="yellow_light">#FFF9C4</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="yellow_dark">#FBC02D</color>
+
+    <!-- Grises -->
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_dark">#616161</color>
+
+
+    <color name="blue_purple">#FF5F4BFF</color>
+    <color name="bl">#FF1A1A4B</color>
+    <color name="silver">#FFececec</color>
+    <color name="blanco">#FFF0F5FC</color>
+    <color name="dark_purple">#FF2B2E83</color>
+    <color name="dark_blue">#FF1B1C47</color>
+    <color name="azul_pastel">#FFD7E8FF</color>
+    <color name="morado">#FF1C2B6C</color>
+    <color name="amarillo_pastel">#FFFFECCB</color>
+    <color name="amarillo">#FFFF9100</color>
+    <color name="morado_pastel">#FFE4D9FF</color>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pacienteRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    tools:context=".ui.PacienteHomeActivity">
+
+    <!-- Toolbar con menú del avatar -->
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="0dp"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar"
+        app:title="Inicio"
+        app:titleTextColor="@android:color/white"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Logo superior (ahora debajo del toolbar) -->
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="277dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/paciente" />
+
+    <!-- Texto de bienvenida -->
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido, paciente"
+        android:textColor="@color/dark_blue"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/imageView7"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp" />
+
+    <!-- Botón Ver Medicamentos con ícono -->
+    <ImageView
+        android:id="@+id/iconMedicamento"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="12dp"
+        app:srcCompat="@drawable/medicamento"
+        app:layout_constraintTop_toBottomOf="@id/textView6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        android:layout_marginTop="48dp" />
+
+    <Button
+        android:id="@+id/btnVerMedicamentos"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="12dp"
+        android:text="Ver Medicamentos"
+        android:textColor="#1B1C47"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/boton_ovalado_borde"
+        app:backgroundTint="@null"
+        app:layout_constraintTop_toTopOf="@+id/iconMedicamento"
+        app:layout_constraintBottom_toBottomOf="@+id/iconMedicamento"
+        app:layout_constraintStart_toEndOf="@+id/iconMedicamento"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Botón Notificaciones con ícono -->
+    <ImageView
+        android:id="@+id/iconNotificacion"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="12dp"
+        app:srcCompat="@drawable/notificacion"
+        app:layout_constraintTop_toBottomOf="@+id/iconMedicamento"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnRecordatorios"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:text="Notificaciones y Recordatorios"
+        android:textColor="#1B1C47"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/boton_ovalado_borde"
+        app:backgroundTint="@null"
+        app:layout_constraintTop_toTopOf="@+id/iconNotificacion"
+        app:layout_constraintBottom_toBottomOf="@+id/iconNotificacion"
+        app:layout_constraintStart_toEndOf="@+id/iconNotificacion"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Botón Historial con ícono -->
+    <ImageView
+        android:id="@+id/iconHistorial"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="12dp"
+        app:srcCompat="@drawable/historial"
+        app:layout_constraintTop_toBottomOf="@+id/iconNotificacion"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnHistorial"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:text="Historial Personal"
+        android:textColor="#1B1C47"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:background="@drawable/boton_ovalado_borde"
+        app:backgroundTint="@null"
+        app:layout_constraintTop_toTopOf="@+id/iconHistorial"
+        app:layout_constraintBottom_toBottomOf="@+id/iconHistorial"
+        app:layout_constraintStart_toEndOf="@+id/iconHistorial"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- (Eliminado el botón de cerrar sesión; ahora se usa el del Toolbar) -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
